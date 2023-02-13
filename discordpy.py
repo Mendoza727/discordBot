@@ -21,4 +21,4 @@ async def givemebadge(interaction: Interaction):
     await interaction.response.send_message("mensaje de prueba bot interaccion")
  
  
-bot.run("MTA1MDU4MTAzNDIxNjk4NDY0Ng.GrJ15J.UWn26nQqil5AZHfua7mWYEY2XD17c7hDFKZyKs")
+bot.run("Your_token_id")
